@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453064525654",
+    "project_id": "smart-store-b9bfc",
+    "storage_bucket": "smart-store-b9bfc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453064525654:android:66e99623c05e3b7f1538f7",
+        "android_client_info": {
+          "package_name": "com.example.smart_store_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0nYHPJicppd7Yb_4Pn_6ibpHQLPSR6ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

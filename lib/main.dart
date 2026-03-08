@@ -1,6 +1,13 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
-void main() {
+void main() async {
+  // 1. Ensure Flutter is ready for background tasks
+  WidgetsFlutterBinding.ensureInitialized();
+
+  // 2. Start the connection to your google-services.json
+  await Firebase.initializeApp();
+
   runApp(const MyApp());
 }
 
